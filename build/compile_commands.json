@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/vfb-net.dk/vfb-form/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/vfb-form.dir/vfb-form.cpp.o -c /home/denis/vfb-net.dk/vfb-form/vfb-form.cpp",
+  "file": "/home/denis/vfb-net.dk/vfb-form/vfb-form.cpp"
+}
+]
